@@ -1,0 +1,31 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+
+# Deep learning (MPS on Apple Silicon)
+torch
+torchvision
+torchaudio
+
+# Hugging Face
+transformers
+datasets
+accelerate
+safetensors
+tokenizers
+
+# Apple MLX
+mlx
+mlx-lm
+
+# Plotting
+matplotlib
+seaborn
+
+# Notebooks & utilities
+jupyterlab
+ipykernel
+ipywidgets
+tqdm
